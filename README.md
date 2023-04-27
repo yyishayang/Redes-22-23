@@ -1,2 +1,2 @@
-# Redes-22-23
+# Redes 22-23
 Prácticas de redes
